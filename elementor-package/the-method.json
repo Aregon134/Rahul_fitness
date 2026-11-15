@@ -1,0 +1,2280 @@
+{
+  "version": "0.4",
+  "title": "The X Frame Method",
+  "type": "page",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "000000ea",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-hero rf-course-hero",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "000000e9",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap rf-hero-grid",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "000000e3",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-hero-copy",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000dd",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>The X Frame Method / Online fitness course</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000de",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Learn with purpose. Train with understanding.",
+                    "header_size": "h1",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "000000df",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-lead",
+                    "editor": "<p>The X Frame Method is an online fitness course. Its curriculum and teaching approach are awaiting confirmation; this page previews the learning experience.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000e1",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-actions",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000e0",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-button",
+                        "text": "Enrol in The X Frame Method ↗",
+                        "link": {
+                          "url": "#preview-course",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                },
+                {
+                  "id": "000000e2",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-hero-note",
+                    "editor": "<p>Course learning is separate from personal coaching.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "000000e8",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-photo rf-hero-photo",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000e4",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-image",
+                    "image": {
+                      "url": "__RF_ASSET__/photo-placeholder.svg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "custom",
+                    "caption": "",
+                    "_rf_alt": "Image placeholder: Rahul demonstrating an exercise for a course lesson. Approved photograph required."
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "000000e7",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-photo-caption",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000e5",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Photography / awaiting approval</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000e6",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: Rahul demonstrating an exercise for a course lesson]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000000fa",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "000000f9",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "000000f8",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000f6",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Find your fit</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000f7",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "A course for your learning journey.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "000000f5",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-grid rf-two",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000ef",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000eb",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Who it is for</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000ec",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Know if it suits you.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000ed",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Review the intended audience and prerequisites before enrolling.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000ee",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: intended audience, experience level and suitability]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "000000f4",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000f0",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Learning outcomes</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000f1",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Know what you will learn.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000f2",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>The approved outcomes will describe the knowledge and skills covered, without promising physical results.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000f3",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: the actual X Frame method and specific learning outcomes]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000111",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-sage",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000110",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "0000010f",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000010d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Inside The X Frame Method</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000010e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "A closer look at the curriculum.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "0000010b",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-curriculum",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000fe",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-module",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000fb",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Module 01 / proposed layout</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000fc",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "[CLIENT TO CONFIRM: module 1 title]",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000fd",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>[CLIENT TO CONFIRM: module topics, learning objective and lesson count]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000102",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-module",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000ff",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Module 02 / proposed layout</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000100",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "[CLIENT TO CONFIRM: module 2 title]",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000101",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>[CLIENT TO CONFIRM: module topics, learning objective and lesson count]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000106",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-module",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000103",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Module 03 / proposed layout</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000104",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "[CLIENT TO CONFIRM: module 3 title]",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000105",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>[CLIENT TO CONFIRM: module topics, learning objective and lesson count]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "0000010a",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-module",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000107",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Module 04 / proposed layout</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000108",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "[CLIENT TO CONFIRM: module 4 title]",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000109",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>[CLIENT TO CONFIRM: module topics, learning objective and lesson count]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "0000010c",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "rf-copy rf-note",
+                "editor": "<p>Four rows illustrate the curriculum layout only. The number and order of modules are unconfirmed.</p>",
+                "__globals__": {
+                  "text_color": "globals/colors?id=rfcharcoal",
+                  "typography_typography": "globals/typography?id=rfbody"
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000121",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000120",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "0000011f",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000011d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>A feel for the lessons</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000011e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "See how the course is taught.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "0000011c",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-split rf-lesson",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000116",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-photo ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000112",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-image",
+                        "image": {
+                          "url": "__RF_ASSET__/lesson-placeholder.svg",
+                          "id": ""
+                        },
+                        "image_size": "full",
+                        "caption_source": "custom",
+                        "caption": "",
+                        "_rf_alt": "Image placeholder: approved lesson preview thumbnail. Approved photograph required."
+                      },
+                      "elements": [],
+                      "widgetType": "image"
+                    },
+                    {
+                      "id": "00000115",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "css_classes": "rf-photo-caption",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "html_tag": "div",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "column": "0",
+                          "row": "0",
+                          "isLinked": true,
+                          "unit": "px"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "00000113",
+                          "elType": "widget",
+                          "isInner": false,
+                          "settings": {
+                            "_css_classes": "rf-copy rf-eyebrow",
+                            "editor": "<p>Photography / awaiting approval</p>",
+                            "__globals__": {
+                              "text_color": "globals/colors?id=rfcharcoal",
+                              "typography_typography": "globals/typography?id=rfbody"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "text-editor"
+                        },
+                        {
+                          "id": "00000114",
+                          "elType": "widget",
+                          "isInner": false,
+                          "settings": {
+                            "_css_classes": "rf-copy rf-confirm",
+                            "editor": "<p>[CLIENT TO CONFIRM: approved lesson preview thumbnail]</p>",
+                            "__globals__": {
+                              "text_color": "globals/colors?id=rfcharcoal",
+                              "typography_typography": "globals/typography?id=rfbody"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "text-editor"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "0000011b",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000117",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Lesson preview / not yet available</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000118",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Your first look inside.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000119",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>An approved sample lesson will sit here so you can see the teaching style before deciding.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000011a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: sample lesson, title, transcript/captions and duration]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000127",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-white",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000126",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000125",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000123",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>What comes with the course</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000124",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "The full learning experience.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "00000122",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "",
+                "html": "<dl class=\"rf-facts\"><div><dt>Price (INR)</dt><dd>[CLIENT TO CONFIRM: ₹ course price and applicable taxes]</dd></div><div><dt>Resources</dt><dd>[CLIENT TO CONFIRM: worksheets, guides or other files]</dd></div><div><dt>Access period</dt><dd>[CLIENT TO CONFIRM: length of course access]</dd></div><div><dt>Equipment</dt><dd>[CLIENT TO CONFIRM: space and equipment requirements]</dd></div><div><dt>Support</dt><dd>[CLIENT TO CONFIRM: whether support is included and its scope]</dd></div><div><dt>Lesson format</dt><dd>[CLIENT TO CONFIRM: lesson count, video length and delivery format]</dd></div></dl>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000136",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000135",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000134",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000132",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Meet your instructor</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000133",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Learn with Rahul.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "00000131",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-split",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000012c",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-photo rf-portrait",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000128",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-image",
+                        "image": {
+                          "url": "__RF_ASSET__/photo-placeholder.svg",
+                          "id": ""
+                        },
+                        "image_size": "full",
+                        "caption_source": "custom",
+                        "caption": "",
+                        "_rf_alt": "Image placeholder: Rahul’s approved instructor portrait. Approved photograph required."
+                      },
+                      "elements": [],
+                      "widgetType": "image"
+                    },
+                    {
+                      "id": "0000012b",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "css_classes": "rf-photo-caption",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "html_tag": "div",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "column": "0",
+                          "row": "0",
+                          "isLinked": true,
+                          "unit": "px"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "00000129",
+                          "elType": "widget",
+                          "isInner": false,
+                          "settings": {
+                            "_css_classes": "rf-copy rf-eyebrow",
+                            "editor": "<p>Photography / awaiting approval</p>",
+                            "__globals__": {
+                              "text_color": "globals/colors?id=rfcharcoal",
+                              "typography_typography": "globals/typography?id=rfbody"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "text-editor"
+                        },
+                        {
+                          "id": "0000012a",
+                          "elType": "widget",
+                          "isInner": false,
+                          "settings": {
+                            "_css_classes": "rf-copy rf-confirm",
+                            "editor": "<p>[CLIENT TO CONFIRM: Rahul’s approved instructor portrait]</p>",
+                            "__globals__": {
+                              "text_color": "globals/colors?id=rfcharcoal",
+                              "typography_typography": "globals/typography?id=rfbody"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "text-editor"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "00000130",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-bio",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000012d",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "The person behind the lessons.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000012e",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>This section will introduce Rahul’s relevant training background and why he created the course.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000012f",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: instructor biography, qualifications, experience and course origin]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000147",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-sage",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000146",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000145",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000143",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Your course, at a glance</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000144",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Review the details. Then decide.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "00000142",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-summary-grid",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000013b",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000137",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "The X Frame Method",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000138",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>An online fitness course with its final curriculum, resources and access terms still under review.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000139",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "",
+                        "html": "<ul class=\"rf-list\"><li>Review the curriculum and prerequisites.</li><li>Check the access period and support inclusions.</li><li>Read the purchase and refund terms.</li></ul>"
+                      },
+                      "elements": [],
+                      "widgetType": "html"
+                    },
+                    {
+                      "id": "0000013a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: purchase terms, refunds, platform and student access process]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000141",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-summary-card",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000013c",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Online course</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000013d",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "A structured way to learn.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000013e",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: ₹ course price]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000013f",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-button",
+                        "text": "Enrol in The X Frame Method ↗",
+                        "link": {
+                          "url": "#preview-course",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    },
+                    {
+                      "id": "00000140",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-small",
+                        "editor": "<p>Preview only — enrolment and payment are not connected.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000014d",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "0000014c",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "0000014b",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000149",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Before you enrol</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000014a",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "A few course questions.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "00000148",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "",
+                "html": "<div class=\"rf-faq\"><details><summary>What is The X Frame Method?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>It is an online fitness course. [CLIENT TO CONFIRM: the actual method, curriculum, lesson count and learning outcomes]</p></div></details><details><summary>Will Rahul coach me personally?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>The course is separate from 1-1 coaching. Personalised coaching is not promised with course purchase. [CLIENT TO CONFIRM: course support]</p></div></details><details><summary>What equipment and experience do I need?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>[CLIENT TO CONFIRM: training prerequisites, equipment and space requirements]</p></div></details><details><summary>How long can I access the lessons?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>[CLIENT TO CONFIRM: access period, release schedule and any download permissions]</p></div></details><details><summary>Where will I take the course?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>The course platform and student experience belong to the later integration phase. [CLIENT TO CONFIRM: platform and access process]</p></div></details><details><summary>Can I enrol now?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>This is a preview. The enrolment button shows the proposed purchase summary without collecting payment or creating an account.</p></div></details></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

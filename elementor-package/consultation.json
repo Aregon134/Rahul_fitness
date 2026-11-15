@@ -1,0 +1,2006 @@
+{
+  "version": "0.4",
+  "title": "One time consultation",
+  "type": "page",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "00000085",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-hero ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000084",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap rf-hero-grid",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "0000007e",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-hero-copy",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000078",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>One time consultation / Focused guidance</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000079",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Get clear on your next step.",
+                    "header_size": "h1",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "0000007a",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-lead",
+                    "editor": "<p>A focused appointment to discuss your fitness questions. Review the topics, format and inclusions before you book.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000007c",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-actions",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000007b",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-button",
+                        "text": "Book a consultation ↗",
+                        "link": {
+                          "url": "#preview-consultation",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                },
+                {
+                  "id": "0000007d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-hero-note",
+                    "editor": "<p>One appointment. Scope and price awaiting confirmation.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "00000083",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-photo rf-hero-photo",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000007f",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-image",
+                    "image": {
+                      "url": "__RF_ASSET__/photo-placeholder.svg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "custom",
+                    "caption": "",
+                    "_rf_alt": "Image placeholder: Rahul talking with a client during a consultation. Approved photograph required."
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "00000082",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-photo-caption",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000080",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Photography / awaiting approval</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000081",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: Rahul talking with a client during a consultation]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000098",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000097",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000096",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000094",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Is this your starting point?</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000095",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "For the questions on your mind.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "00000092",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-grid rf-three",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000089",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000086",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>01</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000087",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "You want a clearer direction.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000088",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>You have questions about where to begin and want to discuss your next step.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "0000008d",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000008a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>02</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000008b",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "You want to talk it through.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000008c",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>You are weighing different options and want a focused conversation.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000091",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000008e",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>03</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000008f",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "You have a specific question.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000090",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>You would like to check whether your topic fits the consultation scope.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "00000093",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "rf-copy rf-confirm",
+                "editor": "<p>[CLIENT TO CONFIRM: who the appointment is suitable for and any exclusions]</p>",
+                "__globals__": {
+                  "text_color": "globals/colors?id=rfcharcoal",
+                  "typography_typography": "globals/typography?id=rfbody"
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000000ab",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-sage",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "000000aa",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "000000a9",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000a7",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>The conversation</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000a8",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "What would you like to cover?",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "000000a5",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-grid rf-three",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000009c",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000099",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Proposed topic</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000009a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Your starting point",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000009b",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Your current routine, training experience and the goal you want to discuss.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "000000a0",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000009d",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Proposed topic</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000009e",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Your questions",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000009f",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>The questions you would like to prioritise during the appointment.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "000000a4",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000a1",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Proposed topic</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000a2",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Possible next steps",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000a3",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>A discussion of your options within the confirmed scope.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "000000a6",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "rf-copy rf-confirm",
+                "editor": "<p>[CLIENT TO CONFIRM: approved consultation topics, training/nutrition scope and professional boundaries]</p>",
+                "__globals__": {
+                  "text_color": "globals/colors?id=rfcharcoal",
+                  "typography_typography": "globals/typography?id=rfbody"
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000000c1",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "000000c0",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "000000bf",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000bd",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Before / During / After</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000be",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Know what to expect.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "000000bb",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-grid rf-three rf-process",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000b0",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000ad",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>01</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000ae",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Before the call",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000af",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Review the appointment details and prepare the questions you want to discuss.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000ac",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: preparation requirements and booking process]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "000000b5",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000b2",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>02</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000b3",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "During the call",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000b4",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Use the appointment to discuss the agreed topics with Rahul.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000b1",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: duration, platform and agenda]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "000000ba",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000b7",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>03</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000b8",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "After the call",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000b9",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Any written takeaways or next steps depend on the final inclusions.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000b6",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: deliverables; whether any follow-up is included]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "000000bc",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "rf-copy rf-note",
+                "editor": "<p>A personalised plan or follow-up support is not promised in this draft.</p>",
+                "__globals__": {
+                  "text_color": "globals/colors?id=rfcharcoal",
+                  "typography_typography": "globals/typography?id=rfbody"
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000000cf",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-white",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "000000ce",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "000000cd",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000cb",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Your appointment, at a glance</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000cc",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "The details before you decide.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "000000ca",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-summary-grid",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000c2",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "",
+                    "html": "<dl class=\"rf-facts\"><div><dt>Price (INR)</dt><dd>[CLIENT TO CONFIRM: ₹ amount and applicable taxes]</dd></div><div><dt>Call duration</dt><dd>[CLIENT TO CONFIRM: appointment length]</dd></div><div><dt>Meeting platform</dt><dd>[CLIENT TO CONFIRM: video or voice platform]</dd></div><div><dt>Preparation</dt><dd>[CLIENT TO CONFIRM: what to share before the call]</dd></div><div><dt>Takeaways</dt><dd>[CLIENT TO CONFIRM: agreed deliverables, if any]</dd></div><div><dt>Rescheduling</dt><dd>[CLIENT TO CONFIRM: cancellation and rescheduling terms]</dd></div></dl>"
+                  },
+                  "elements": [],
+                  "widgetType": "html"
+                },
+                {
+                  "id": "000000c9",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-summary-card",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000000c3",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>One time consultation</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000c4",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "A focused conversation.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "000000c5",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: ₹ consultation price]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000c6",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Review the confirmed inclusions and service terms before booking.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "000000c7",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-button",
+                        "text": "Book a consultation ↗",
+                        "link": {
+                          "url": "#preview-consultation",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    },
+                    {
+                      "id": "000000c8",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-small",
+                        "editor": "<p>Preview only — payment and scheduling are not connected.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000000d5",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "000000d4",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "000000d3",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000d1",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Your questions, answered</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000d2",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Before you book.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "000000d0",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "",
+                "html": "<div class=\"rf-faq\"><details><summary>Will I receive a personalised plan?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>A personalised plan is not included unless Rahul confirms it as a specific deliverable. [CLIENT TO CONFIRM: appointment takeaways]</p></div></details><details><summary>Is follow-up support included?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>Follow-up support is not promised in this draft. [CLIENT TO CONFIRM: whether follow-up is offered, and its scope]</p></div></details><details><summary>How long is the appointment and where does it happen?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>[CLIENT TO CONFIRM: appointment duration and meeting platform]</p></div></details><details><summary>What if I need to reschedule?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>[CLIENT TO CONFIRM: rescheduling notice, cancellation terms and refund policy]</p></div></details><details><summary>How will booking work?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>The planned journey is booking, payment and scheduling. The exact order and providers will be specified after review. This preview does not make a booking or accept payment.</p></div></details></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000000dc",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-cta",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "000000db",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap rf-cta-inner",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "000000d9",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000d6",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Take your next step</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "000000d7",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Make space for your questions.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "000000d8",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy ",
+                    "editor": "<p>Take a look at the appointment preview and the details still to be confirmed.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "000000da",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "rf-button",
+                "text": "Book a consultation ↗",
+                "link": {
+                  "url": "#preview-consultation",
+                  "is_external": "",
+                  "nofollow": ""
+                },
+                "__globals__": {
+                  "button_background_color": "globals/colors?id=rfforest",
+                  "typography_typography": "globals/typography?id=rfbody"
+                }
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

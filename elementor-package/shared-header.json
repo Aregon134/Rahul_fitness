@@ -1,0 +1,19 @@
+{
+  "version": "0.4",
+  "title": "Rahul Fitness shared header",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "000001d0",
+      "elType": "widget",
+      "isInner": false,
+      "settings": {
+        "_css_classes": "",
+        "html": "<div class=\"rf-preview-bar\"><div class=\"rf-wrap\"><span><span class=\"rf-dot\" aria-hidden=\"true\"></span> Design preview</span><a href=\"#review-checklist\">Content awaiting client approval <span aria-hidden=\"true\">\u2197</span></a></div></div>\n<header class=\"rf-header\"><div class=\"rf-wrap rf-header-inner\"><a class=\"rf-brand\" href=\"/\" aria-label=\"Rahul Fitness home\"><span class=\"rf-brand-mark\" aria-hidden=\"true\">rf<span>.</span></span><span>RAHUL<br>FITNESS</span></a>\n<button class=\"rf-menu-toggle\" type=\"button\" aria-expanded=\"false\" aria-controls=\"rf-main-nav\"><span>Menu</span><span aria-hidden=\"true\">\u2630</span></button>\n<nav id=\"rf-main-nav\" class=\"rf-nav\" aria-label=\"Main navigation\"><a href=\"/\">Home</a><a href=\"/consultation/\">Consultation</a><a href=\"/the-method/\">The X Frame Method</a><a href=\"/1-1-coaching/\">1-1 coaching</a></nav></div></header>"
+      },
+      "elements": [],
+      "widgetType": "html"
+    }
+  ]
+}

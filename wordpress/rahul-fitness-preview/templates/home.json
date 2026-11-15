@@ -1,0 +1,2319 @@
+{
+  "version": "0.4",
+  "title": "Home",
+  "type": "page",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "0000000e",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-hero ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "0000000d",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap rf-hero-grid",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000007",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-hero-copy",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000001",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Rahul Fitness / A stronger everyday</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000002",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Build strength. Find your routine. Make progress that lasts.",
+                    "header_size": "h1",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "00000003",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-lead",
+                    "editor": "<p>Focused guidance, an online course, or personal coaching. Find a way forward that fits where you are today.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000005",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-actions",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000004",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-button",
+                        "text": "Explore your options ↗",
+                        "link": {
+                          "url": "#offers",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000006",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-hero-note",
+                    "editor": "<p>Your starting point. Your pace. Your next step.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "0000000c",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-photo rf-hero-photo",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000008",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-image",
+                    "image": {
+                      "url": "__RF_ASSET__/photo-placeholder.svg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "custom",
+                    "caption": "",
+                    "_rf_alt": "Image placeholder: Rahul coaching a client in a training space. Approved photograph required."
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "0000000b",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-photo-caption",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000009",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Photography / awaiting approval</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000000a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: Rahul coaching a client in a training space]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000027",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000026",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000025",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000022",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Progress, with perspective</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000023",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Every story needs the full picture.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "00000024",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-intro",
+                    "editor": "<p>Client results will appear here once the stories, context and consent are approved. These are placeholders, not testimonials.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "00000021",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-grid rf-three",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000014",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card rf-result",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000000f",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "",
+                        "html": "<div class=\"rf-result-image\" role=\"img\" aria-label=\"Placeholder for a consented client result photograph\"><span aria-hidden=\"true\">↗</span><span>Client result / photo pending</span></div>"
+                      },
+                      "elements": [],
+                      "widgetType": "html"
+                    },
+                    {
+                      "id": "00000010",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Client story / 01</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000011",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "A progress story, in context.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000012",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Space for the client’s goal, starting point, experience and verified progress.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000013",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: client consent, name, photographs, outcome and timeframe]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "0000001a",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card rf-result",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000015",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "",
+                        "html": "<div class=\"rf-result-image\" role=\"img\" aria-label=\"Placeholder for a consented client result photograph\"><span aria-hidden=\"true\">↗</span><span>Client result / photo pending</span></div>"
+                      },
+                      "elements": [],
+                      "widgetType": "html"
+                    },
+                    {
+                      "id": "00000016",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Client story / 02</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000017",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "A progress story, in context.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000018",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Space for the client’s goal, starting point, experience and verified progress.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000019",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: client consent, name, photographs, outcome and timeframe]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000020",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card rf-result",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000001b",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "",
+                        "html": "<div class=\"rf-result-image\" role=\"img\" aria-label=\"Placeholder for a consented client result photograph\"><span aria-hidden=\"true\">↗</span><span>Client result / photo pending</span></div>"
+                      },
+                      "elements": [],
+                      "widgetType": "html"
+                    },
+                    {
+                      "id": "0000001c",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Client story / 03</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000001d",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "A progress story, in context.",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000001e",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Space for the client’s goal, starting point, experience and verified progress.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000001f",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: client consent, name, photographs, outcome and timeframe]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000043",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-sage",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        },
+        "_element_id": "offers"
+      },
+      "elements": [
+        {
+          "id": "00000042",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000041",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000003e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Three ways to begin</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000003f",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Find the support that fits.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "00000040",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-intro",
+                    "editor": "<p>A little clarity, a structured way to learn, or support along the way. Choose your starting point.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "0000003d",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-grid rf-three rf-offer-grid",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000002e",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card rf-offer ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000028",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>01 / Focused guidance</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000029",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "One time consultation",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000002a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>For a specific question or a clearer next step. Start with a focused conversation.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000002b",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-format",
+                        "editor": "<p>One appointment</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000002c",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: price, duration and appointment inclusions]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000002d",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-text-link",
+                        "text": "Explore consultation ↗",
+                        "link": {
+                          "url": "/consultation/",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000035",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card rf-offer rf-offer-green",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000002f",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>02 / Learn the foundations</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000030",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "The X Frame Method",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000031",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>An online fitness course. Explore the curriculum and learn what the course will cover.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000032",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-format",
+                        "editor": "<p>Online course</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000033",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: curriculum, access period, support and price]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000034",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-text-link",
+                        "text": "Explore the course ↗",
+                        "link": {
+                          "url": "/the-method/",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                },
+                {
+                  "id": "0000003c",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card rf-offer ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000036",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>03 / Personal support</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000037",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "1-1 Coaching with Rahul",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000038",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>For people looking for a personalised coaching relationship around their goals.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000039",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-format",
+                        "editor": "<p>Personal coaching</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000003a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: coaching scope, duration, communication and price]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000003b",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-text-link",
+                        "text": "Explore 1-1 coaching ↗",
+                        "link": {
+                          "url": "/1-1-coaching/",
+                          "is_external": "",
+                          "nofollow": ""
+                        },
+                        "__globals__": {
+                          "button_background_color": "globals/colors?id=rfforest",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000051",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000050",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap rf-split",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000048",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-photo rf-portrait",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000044",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-image",
+                    "image": {
+                      "url": "__RF_ASSET__/photo-placeholder.svg",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "caption_source": "custom",
+                    "caption": "",
+                    "_rf_alt": "Image placeholder: Rahul’s approved portrait. Approved photograph required."
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                },
+                {
+                  "id": "00000047",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-photo-caption",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000045",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>Photography / awaiting approval</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000046",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-confirm",
+                        "editor": "<p>[CLIENT TO CONFIRM: Rahul’s approved portrait]</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "0000004f",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-bio",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000049",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Meet your coach</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000004a",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Hi, I’m Rahul.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "0000004b",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy ",
+                    "editor": "<p>This is where you’ll get to know the person behind Rahul Fitness: his background, how he coaches, and what matters to him.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000004c",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-confirm",
+                    "editor": "<p>[CLIENT TO CONFIRM: Rahul’s biography, qualifications, experience and coaching philosophy]</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000004d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy ",
+                    "editor": "<p>For now, explore the three formats and see which kind of support you are looking for.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000004e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-text-link",
+                    "text": "Find your starting point ↗",
+                    "link": {
+                      "url": "#offers",
+                      "is_external": "",
+                      "nofollow": ""
+                    },
+                    "__globals__": {
+                      "button_background_color": "globals/colors?id=rfforest",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "button"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000064",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000063",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000062",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000005f",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>The approach / draft for review</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000060",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Start where you are. Build from there.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "00000061",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-intro",
+                    "editor": "<p>A simple way to choose. Rahul’s training and coaching principles will be added after review.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "0000005e",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-grid rf-three rf-process",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000055",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000052",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>01</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000053",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Get clear",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000054",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Think about your goal, your routine and the questions you want answered.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "00000059",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "00000056",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>02</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "00000057",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Choose your support",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "00000058",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Compare focused guidance, course learning and personalised coaching.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                },
+                {
+                  "id": "0000005d",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "css_classes": "rf-card ",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "html_tag": "div",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000005a",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy rf-eyebrow",
+                        "editor": "<p>03</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    },
+                    {
+                      "id": "0000005b",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-heading ",
+                        "title": "Take the next step",
+                        "header_size": "h3",
+                        "__globals__": {
+                          "title_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfheading"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "heading"
+                    },
+                    {
+                      "id": "0000005c",
+                      "elType": "widget",
+                      "isInner": false,
+                      "settings": {
+                        "_css_classes": "rf-copy ",
+                        "editor": "<p>Review what is included before deciding how you would like to begin.</p>",
+                        "__globals__": {
+                          "text_color": "globals/colors?id=rfcharcoal",
+                          "typography_typography": "globals/typography?id=rfbody"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "text-editor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000006a",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-white",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000069",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000068",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000066",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>A clearer choice</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000067",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Different formats. Different needs.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "00000065",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "",
+                "html": "<div class=\"rf-comparison\"><table><caption class=\"rf-sr\">Compare consultation, course and coaching</caption><thead><tr><th scope=\"col\">Compare your options</th><th scope=\"col\">Consultation</th><th scope=\"col\">The X Frame Method</th><th scope=\"col\">1-1 coaching</th></tr></thead><tbody><tr><th scope=\"row\">Who it is for</th><td data-label=\"Consultation\">A focused question</td><td data-label=\"The X Frame Method\">People who want to learn</td><td data-label=\"1-1 coaching\">People seeking personal support</td></tr><tr><th scope=\"row\">Delivery format</th><td data-label=\"Consultation\">One appointment</td><td data-label=\"The X Frame Method\">Online course</td><td data-label=\"1-1 coaching\">1-1 coaching</td></tr><tr><th scope=\"row\">Personal support</th><td data-label=\"Consultation\">[CLIENT TO CONFIRM: appointment scope]</td><td data-label=\"The X Frame Method\">[CLIENT TO CONFIRM: course support]</td><td data-label=\"1-1 coaching\">[CLIENT TO CONFIRM: check-ins and contact]</td></tr><tr><th scope=\"row\">Commitment</th><td data-label=\"Consultation\">[CLIENT TO CONFIRM: call duration]</td><td data-label=\"The X Frame Method\">[CLIENT TO CONFIRM: pace and access]</td><td data-label=\"1-1 coaching\">[CLIENT TO CONFIRM: programme duration]</td></tr><tr><th scope=\"row\">Price (INR)</th><td data-label=\"Consultation\">[CLIENT TO CONFIRM: ₹ price]</td><td data-label=\"The X Frame Method\">[CLIENT TO CONFIRM: ₹ price]</td><td data-label=\"1-1 coaching\">[CLIENT TO CONFIRM: ₹ price]</td></tr></tbody></table></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000070",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section ",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "0000006f",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "0000006e",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "rf-section-heading",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000006c",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>A few things you might be wondering</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "0000006d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Let’s make it clearer.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                }
+              ]
+            },
+            {
+              "id": "0000006b",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "",
+                "html": "<div class=\"rf-faq\"><details><summary>Where should I start?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>Explore the three offer pages. A consultation is for focused guidance, The X Frame Method is an online course, and 1-1 coaching is the personalised support option. Final inclusions are awaiting client confirmation.</p></div></details><details><summary>Is the course the same as 1-1 coaching?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>No. The X Frame Method is a learning product. 1-1 coaching is a separate personalised service. [CLIENT TO CONFIRM: the exact support included in each offer]</p></div></details><details><summary>Do I need training experience?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>[CLIENT TO CONFIRM: experience level, suitability and prerequisites for each offer]</p></div></details><details><summary>Can I book or enrol from this preview?<span aria-hidden=\"true\" class=\"rf-plus\"></span></summary><div class=\"rf-faq-answer\"><p>This is a design and content preview. Booking, payment, course access and application processing will be specified after client review. The buttons open preview panels only.</p></div></details></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000077",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "css_classes": "rf-section rf-cta",
+        "content_width": "full",
+        "flex_direction": "column",
+        "html_tag": "section",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px"
+        }
+      },
+      "elements": [
+        {
+          "id": "00000076",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "css_classes": "rf-wrap rf-cta-inner",
+            "content_width": "full",
+            "flex_direction": "column",
+            "html_tag": "div",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "column": "0",
+              "row": "0",
+              "isLinked": true,
+              "unit": "px"
+            }
+          },
+          "elements": [
+            {
+              "id": "00000074",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "css_classes": "",
+                "content_width": "full",
+                "flex_direction": "column",
+                "html_tag": "div",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px"
+                }
+              },
+              "elements": [
+                {
+                  "id": "00000071",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy rf-eyebrow",
+                    "editor": "<p>Take your next step</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "00000072",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-heading ",
+                    "title": "Your next step starts here.",
+                    "header_size": "h2",
+                    "__globals__": {
+                      "title_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfheading"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "00000073",
+                  "elType": "widget",
+                  "isInner": false,
+                  "settings": {
+                    "_css_classes": "rf-copy ",
+                    "editor": "<p>Explore the formats. Take a closer look at the one that feels right for you.</p>",
+                    "__globals__": {
+                      "text_color": "globals/colors?id=rfcharcoal",
+                      "typography_typography": "globals/typography?id=rfbody"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ]
+            },
+            {
+              "id": "00000075",
+              "elType": "widget",
+              "isInner": false,
+              "settings": {
+                "_css_classes": "rf-button",
+                "text": "Explore your options ↗",
+                "link": {
+                  "url": "#offers",
+                  "is_external": "",
+                  "nofollow": ""
+                },
+                "__globals__": {
+                  "button_background_color": "globals/colors?id=rfforest",
+                  "typography_typography": "globals/typography?id=rfbody"
+                }
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

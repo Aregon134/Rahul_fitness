@@ -1,0 +1,19 @@
+{
+  "version": "0.4",
+  "title": "Rahul Fitness shared footer",
+  "type": "section",
+  "page_settings": {},
+  "content": [
+    {
+      "id": "000001d1",
+      "elType": "widget",
+      "isInner": false,
+      "settings": {
+        "_css_classes": "",
+        "html": "<footer class=\"rf-footer\"><div class=\"rf-wrap\"><div class=\"rf-footer-top\"><div><a class=\"rf-brand\" href=\"/\" aria-label=\"Rahul Fitness home\"><span class=\"rf-brand-mark\" aria-hidden=\"true\">rf<span>.</span></span><span>RAHUL<br>FITNESS</span></a><p>A stronger everyday.<br>A starting point that feels like yours.</p></div><nav aria-label=\"Footer navigation\"><a href=\"/\">Home</a><a href=\"/consultation/\">One time consultation</a><a href=\"/the-method/\">The X Frame Method</a><a href=\"/1-1-coaching/\">1-1 Coaching with Rahul</a></nav><div class=\"rf-footer-review\"><span class=\"rf-eyebrow\">For client review</span><p>Four pages. One shared direction.</p><a href=\"#review-checklist\">Open the content checklist \u2197</a></div></div><div class=\"rf-footer-bottom\"><span>\u00a9 Rahul Fitness \u00b7 Design preview</span><span>English / INR</span><span>[CLIENT TO CONFIRM: legal name, contact and policies]</span></div></div></footer>"
+      },
+      "elements": [],
+      "widgetType": "html"
+    }
+  ]
+}
