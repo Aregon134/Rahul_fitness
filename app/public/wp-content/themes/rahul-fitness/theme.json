@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "layout": {"contentSize": "1200px", "wideSize": "1600px"},
+    "color": {"palette": [{"slug":"black","color":"#161616","name":"Black"},{"slug":"white","color":"#ffffff","name":"White"},{"slug":"grey","color":"#b3b3b3","name":"Grey"}]},
+    "typography": {"fontFamilies":[{"slug":"manrope","name":"Manrope","fontFamily":"Manrope, Arial, sans-serif"}]},
+    "spacing": {"units":["px","rem","%","vh","vw"]}
+  },
+  "styles": {"typography":{"fontFamily":"var:preset|font-family|manrope"},"spacing":{"blockGap":"0"}}
+}
